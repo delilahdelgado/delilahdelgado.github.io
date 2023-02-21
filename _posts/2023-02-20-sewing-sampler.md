@@ -1,4 +1,4 @@
-## Sewing Sampler
+## Sewing Sampler Assignment Reflection
 
 Behold!
 
