@@ -2,8 +2,8 @@
 
 Behold!
 
-![littlewomen](https://delilahdelgado.github.io/img/littlewomen3.png) {: .mx-auto.d-block :}
-![littlewomen](https://delilahdelgado.github.io/img/littlewomen3.png) {: .mx-auto.d-block :}
+![front](https://delilahdelgado.github.io/assets/img/sewingsamplerfront.png) {: .mx-auto.d-block :}
+![back](https://delilahdelgado.github.io/assets/img/sewingsamplerback.png) {: .mx-auto.d-block :}
 
 As you can see, the back is a little rough, especially in regards to the satin stitch, which I struggled a little with as it was completely new to me. 
 
