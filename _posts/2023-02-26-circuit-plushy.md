@@ -8,4 +8,4 @@ Below is my plushy: front, back, and lit up. I think one tip I would provide for
 
 ![plushyfront](https://delilahdelgado.github.io/assets/img/plushyfront.png) 
 ![plushyback](https://delilahdelgado.github.io/assets/img/plushyback.png) 
-![litup](https://delilahdelgado.github.io/assets/img/plushybacklit.png)
+![litup](https://delilahdelgado.github.io/assets/img/plushybacklight.png)
