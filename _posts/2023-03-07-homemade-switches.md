@@ -13,4 +13,4 @@ And here is my alligator clip prototyping stage, with two alligator clip ends su
 
 And finally, here is my paper prototype: 
 
-![prototype](https://delilahdelgado.github.io/assets/img/paper.png)
+![prototype](https://delilahdelgado.github.io/assets/img/paper3.png)
