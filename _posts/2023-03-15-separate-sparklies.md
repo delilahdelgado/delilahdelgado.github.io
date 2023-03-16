@@ -4,5 +4,6 @@ Honestly, I really struggled with this assignment. It consisted of planning and 
 
 Below are photos of my three working sets of LEDs:
 
+![flashbulb](https://delilahdelgado.github.io/assets/img/yellowLEDS.png)
 ![big dipper](https://delilahdelgado.github.io/assets/img/greenLEDS.png)
 ![synchronous](https://delilahdelgado.github.io/assets/img/whiteLEDS.png)
