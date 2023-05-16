@@ -6,7 +6,7 @@ Alligator Clip Prototype:
 
 Video of Working Project: 
 
-[inline-style link with title]([https://www.google.com](https://drive.google.com/file/d/1TyaArbwL5lOz7yWAmajtaeBXcJFralJC/view?usp=sharing) "found here!")
+[inline-style link with title](https://drive.google.com/file/d/1TyaArbwL5lOz7yWAmajtaeBXcJFralJC/view?usp=sharing "found here!")
 
 3 Tips to Past Self:
 1. Don't assume all components are infallible! My project was being quite finnicky in the alligator clip protoype phase, which I soon realized (as soon as I sewed it together and had no problems) was because of a whacky wire. When I slightly bent the wire, the circuit would work, but if I laid it flat on the table, it wouldn't. It took me a few hours to realize this was the issue; I kept going back into my code to try to and find errors I had somehow missed before. I could have spent this time much better by placing my attention on the actual components of the alligator clip prototype after a few times of combing through my code did not turn up any errors. 
