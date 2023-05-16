@@ -1,4 +1,6 @@
-## Final Project Report!
+## Final Project Report :)
+
+My project, entitled "The Happy Birthday Bear" was created for my friend's birthday (he will make an appearance at the party). My friend and I work together in the costume shop, so I thought it would be meaningful to give them something I had sewed to commemorate our time there learning to sew together. It consists of a bear (that I did not sew!!!) holding a felt plushy heart. When the switch is on and the light sensor picks up light below a certain threshold (both components are located on the bear's arm), a white LED located on the front of the heart turns on, and a buzzer located on the back of the heart plays "Happy Birthday." My materials included red felt, conductive thread, embroidery floss, a sewing needle, a white LED, as well as the lilypad Arduino buzzer, switch, and light sensor. (And, obviously, the bear.) 
 
 Revised Paper Prototype:
 ![front](https://delilahdelgado.github.io/assets/img/finalpaper2.png)
