@@ -2,8 +2,13 @@
 
 Revised Paper Prototype:
 
+Alligator Clip Prototype: 
+
 Video of Working Project: 
-![video](https://delilahdelgado.github.io/assets/img/project2.mov) 
+
+[inline-style link with title]([https://www.google.com](https://drive.google.com/file/d/1TyaArbwL5lOz7yWAmajtaeBXcJFralJC/view?usp=sharing) "found here!")
 
 3 Tips to Past Self:
-1. 
+1. Don't assume all components are infallible! My project was being quite finnicky in the alligator clip protoype phase, which I soon realized (as soon as I sewed it together and had no problems) was because of a whacky wire. When I slightly bent the wire, the circuit would work, but if I laid it flat on the table, it wouldn't. It took me a few hours to realize this was the issue; I kept going back into my code to try to and find errors I had somehow missed before. I could have spent this time much better by placing my attention on the actual components of the alligator clip prototype after a few times of combing through my code did not turn up any errors. 
+
+2. Spend more time considering how the project will exist in its actual 3D state during the paper prototyping phase! I put a lot of thought into my final paper prototype, but somehow it slipped my mind that the back sides of my heart plushy might be touching at some points. I had confined most of the conductive thread traces to the back sides, yet did not account for this in my original planning and was therefore forced to sew in a last minute insulating felt panel to the back of each side of the heart. I think this could have been avoided if I had potentially made an actual Paper Prototype rather than drawn on an iPad—in other words, if I had cut the two sides out of paper so I could physically hold them and see how they fit togetehr. 
